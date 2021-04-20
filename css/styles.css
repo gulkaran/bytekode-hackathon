@@ -2105,7 +2105,8 @@ fieldset:disabled a.btn {
     background-color: #f8f9fa;
     border-color: #f8f9fa; }
     .btn-outline-light:not(:disabled):not(.disabled):active:focus, .btn-outline-light:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-light.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5); 
+    }
 
 .btn-outline-dark {
   color: #343a40;
@@ -7216,9 +7217,21 @@ h3 {
 .btn-social {
   border-radius: 100%;
   display: inline-flex;
-  width: 3.25rem;
-  height: 3.25rem;
-  font-size: 1.25rem;
+  width: 4rem;
+  height: 4rem;
+  font-size: 2rem;
+  position: relative;
+  top: 25px;
+  left: 50px;
+  justify-content: center;
+  align-items: center; }
+
+.btn-social-footer {
+  border-radius: 100%;
+  display: inline-flex;
+  width: 4rem;
+  height: 4rem;
+  font-size: 2rem;
   justify-content: center;
   align-items: center; }
 
