@@ -5693,6 +5693,9 @@ button.bg-dark:focus {
 .my-5 {
   margin-bottom: 3rem !important; }
 
+.mb-6 {
+  margin-bottom: 2rem !important; }
+
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important; }
@@ -7222,7 +7225,6 @@ h3 {
   font-size: 2rem;
   position: relative;
   top: 25px;
-  left: 50px;
   justify-content: center;
   align-items: center; }
 
