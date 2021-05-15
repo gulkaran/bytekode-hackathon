@@ -9757,6 +9757,7 @@ a.text-dark:focus {
   font-size: 2rem;
   position: relative;
   top: 45px;
+  right: 1px;
   justify-content: center;
   align-items: center;
 }
