@@ -9765,11 +9765,11 @@ a.text-dark:focus {
 .btn-getstarted {
   border-radius: 30px;
   display: inline-flex;
-  width: 16rem;
+  width: 14rem;
   height: 3.75rem;
   font-size: 2rem;
   position: relative;
-  top: 25px;
+  top: 35px;
   justify-content: center;
   align-items: center;
 }
