@@ -7498,6 +7498,10 @@ button.bg-dark:focus {
   width: 100% !important;
 }
 
+.w-110 {
+  width: 110% !important;
+}
+
 .w-auto {
   width: auto !important;
 }
@@ -7604,6 +7608,13 @@ button.bg-dark:focus {
 .ml-1,
 .mx-1 {
   margin-left: 0.25rem !important;
+}
+
+.mx-trial {
+  margin-left: 0rem;
+  margin-bottom: 0;
+  margin-right: 0;
+  width: min(200px, 50%, 900px);
 }
 
 .m-2 {
