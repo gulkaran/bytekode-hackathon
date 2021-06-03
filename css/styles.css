@@ -87,6 +87,10 @@ hr {
   overflow: visible;
 }
 
+h1 {
+  font-size: 300%;
+}
+
 h1,
 h2,
 h3,
@@ -100,6 +104,33 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.container-calendar {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.countdown {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.day,
+.hour,
+.minute,
+.second {
+  font-size: 3rem;
+}
+
+.waiting {
+  height: auto;
+  width: auto;
+  max-width: 800px;
+  max-height: 800px;
 }
 
 abbr[title],
@@ -9716,6 +9747,14 @@ a.text-dark:focus {
   line-height: 2rem;
 }
 
+.page-section2 {
+  padding: 2rem 0;
+}
+.page-section2 .page-section-heading {
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+
 @media (min-width: 992px) {
   .page-section .page-section-heading {
     font-size: 3rem;
@@ -9732,12 +9771,13 @@ a.text-dark:focus {
 }
 .divider-custom .divider-custom-line {
   width: 100%;
-  max-width: 7rem;
+  max-width: 15rem;
   height: 0.25rem;
   background-color: #020f1b;
   border-radius: 1rem;
   border-color: #020f1b !important;
 }
+
 .divider-custom .divider-custom-line:first-child {
   margin-right: 1rem;
 }
@@ -9874,7 +9914,7 @@ a.text-dark:focus {
 
 .masthead {
   padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-bottom: 9rem;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
