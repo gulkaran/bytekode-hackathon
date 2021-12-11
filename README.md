@@ -9,9 +9,18 @@ byteKode is an online student-led hackathon that is meant for anyone in high sch
 
 ## ❤️ Sponsors and Partners
 List of everyone who made this possile: 
-- Figma[figma]!
-- 
-- 
+- [Figma](https://www.figma.com)
+- [Taskade](https://www.taskade.com/)
+- [Axure](https://www.axure.com/)
+- [Stickermule](https://www.stickermule.com/ca)
+- [Replit](https://replit.com/)
+- [echoAR](https://www.echoar.xyz/)
+- [WolfRam Language](https://www.wolfram.com/language/)
+- [1Password](https://1password.com/)
+- [VoiceFlow](https://voiceflow.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [Framer](https://www.framer.com/)
+- [Qoom](https://www.qoom.io/)
 
 ## 📜 Rules for Submissions
 - Max of 4 members per group
@@ -22,9 +31,5 @@ List of everyone who made this possile:
 ## 📞 Socials / Contact Us
 - Email: bytekode.hackathon@gmail.com
 - Discord: https://discord.gg/Kcct7QT2SA
-- Instagram: @bytekodehackathon[insta]!
-- Devpost: https://bytekodehackathon.devpost.com/rules
-
-
-[insta]: https://www.instagram.com/bytekodehackathon/
-[figma]: https://www.figma.com
+- Instagram: [@bytekodehackathon](https://www.instagram.com/bytekodehackathon/)
+- Devpost: https://bytekodehackathon.devpost.com
