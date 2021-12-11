@@ -1,4 +1,4 @@
-# 📌 About ByteKode Hackathon!
+# 📌 About [Bytekode](https://bytekode.org) Hackathon!
 byteKode is an online student-led hackathon that is meant for anyone in high school looking to broaden their utilization of code. Our hackathon's mission is to showcase how beginner programmers can use code outside of the classroom to create meaningful projects. Even experienced students will be able to use their existing knowledge, while also expanding their knowledge using new resources and meeting new people.
 
 ## ❗ How To Apply!
@@ -29,6 +29,7 @@ List of everyone who made this possile:
 - Hacks must have been created within the deadline given, old or plagiarised hacks are automatically disqualified. 
 
 ## 📞 Socials / Contact Us
+- Website: https://bytekode.org
 - Email: bytekode.hackathon@gmail.com
 - Discord: https://discord.gg/Kcct7QT2SA
 - Instagram: [@bytekodehackathon](https://www.instagram.com/bytekodehackathon/)
