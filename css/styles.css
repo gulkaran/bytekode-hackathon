@@ -117,6 +117,7 @@ p {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  min-width: 480px;
 }
 
 .day,
@@ -5936,6 +5937,61 @@ a.close.disabled {
   border-radius: 0.5rem;
 }
 
+.padding-top {
+  padding-top: 24px;
+}
+
+.padding-top2 {
+  padding-top: 52px;
+}
+
+.margin-top {
+  margin-top: 96px;
+}
+
+
+.margin-top2 {
+  margin-top: 76px;
+}
+
+.margin-bottom {
+  margin-bottom: 96px;
+}
+
+.margin-bottom2 {
+  margin-bottom: 250px;
+}
+
+.title-font {
+  font-size: 48px;
+}
+
+.padding-bottom {
+  padding-bottom: 16px;
+}
+
+.padding-bottom2 {
+  padding-bottom: 26px;
+}
+
+.small-icon {
+  font-size: 3.75rem;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.icon-size {
+  font-size: 7.5rem;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.f-title {
+  font-size: 104px !important;
+  font-weight: 1200;
+}
+
 .popover {
   position: absolute;
   top: 0;
@@ -9771,7 +9827,7 @@ a.text-dark:focus {
 }
 .divider-custom .divider-custom-line {
   width: 100%;
-  max-width: 15rem;
+  max-width: 19rem;
   height: 0.25rem;
   background-color: #020f1b;
   border-radius: 1rem;
